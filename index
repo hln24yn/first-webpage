@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<!-- a lot of similarities with LateX -->
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <!-- necessary for strange characters like german ones -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- necessary for mobile phones -->
+    <title>Document</title>
+</head>
+Hello world !
+<body>
+</body>
+
+</html>
