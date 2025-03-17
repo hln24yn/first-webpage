@@ -8,8 +8,9 @@
     <!-- necessary for mobile phones -->
     <title>Document</title>
 </head>
-Hello world !
+
 <body>
+Hello world !
 </body>
 
 </html>
